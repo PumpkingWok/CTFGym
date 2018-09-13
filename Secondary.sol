@@ -1,5 +1,5 @@
 pragma solidity ^0.4.24;
-
+import "https://github.com/PumpkingWok/sample-smart-contracts/blob/master/Ownable.sol";
 
 /**
  * @title Secondary
