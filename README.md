@@ -24,3 +24,4 @@ You have to install Metamask plug-in in your browser.
 - [Solidity Official Documentation](https://solidity.readthedocs.io/en/v0.4.25/)
 - [CryptoZombies smart contracts courses](https://cryptozombies.io/en/course/)
 - [Program the Blockchain](https://programtheblockchain.com/)
+- [Mythril Classic: Security analysis tool for Ethereum smart contracts](https://mythril.ai/)
