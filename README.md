@@ -20,6 +20,6 @@ You have to install Metamask plug-in in your browser.
 
 # Resources
 
-- Solidity Official Documentation -> https://solidity.readthedocs.io/en/v0.4.25/
-- CryptoZombies smart contracts courses -> https://cryptozombies.io/en/course/
-- Program the Blockchain -> https://programtheblockchain.com/
+- [Solidity Official Documentation](https://solidity.readthedocs.io/en/v0.4.25/)
+- [CryptoZombies smart contracts courses](https://cryptozombies.io/en/course/)
+- [Program the Blockchain](https://programtheblockchain.com/)
