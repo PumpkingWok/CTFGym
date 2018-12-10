@@ -7,6 +7,12 @@ You have to install Metamask plug-in in your browser.
     - [Capture the Ether](https://capturetheether.com/)
     - [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions/)
     - [ChainShot](https://www.chainshot.com/)
+    - CTF developed by Reddit user u/wadeAlexC
+      - Original contracts
+        - [PART1 - FunctionTypes](https://ropsten.etherscan.io/address/0x727c1c8d4b190d208f3701f106f7301cb1a32f27#code) 
+        - [PART2 - SafeExecution](https://ropsten.etherscan.io/address/0x023916f968af3fbb21ac10abbe18448c79d609c2#code)
+        - [PART3 - HoneyPot](https://ropsten.etherscan.io/address/0xdc65b61be773f8be72ded22ac008ad5add045e3c#code)
+        - [PART4 - FinePrint](https://ropsten.etherscan.io/address/0x1b359afb0bd86a6c435d178b1fbf8a6fda3ead7d#code)
   
   - CTF in Mainnet
     - CTF developed by pvienhage (Deployed on Nov-29-2018)
