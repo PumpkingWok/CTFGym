@@ -29,9 +29,29 @@ You have to install Metamask plug-in in your browser.
   - Original contract
     - [0x661a64DcC2f04117D0F8A919E2aC66aF8d401d6](https://etherscan.io/address/0x661a64DcC2f04117D0F8A919E2aC66aF8d401d6F) (1 ether, GONE)
 
+# CTF-BOT Resistant
+
+I developed a simple utility contract, OneTimeToken (OTT), for mitigate the issue regard CTF and every contracts where a malicious user or bot could listen on blockchain and wait to find useful info, for instante to discover the input parameters needed to call functions for winning a CTF and create the same transaction with higher gas fees.
+
+The contract [OneTimeToken.sol](https://github.com/PumpkingWok/CTFGym/blob/master/OneTimeToken.sol) is similar to [Ownable.sol](https://github.com/OpenZeppelin/openzeppelin-solidity/blob/master/contracts/ownership/Ownable.sol) developed by OpenZeppelin, but it includes the way to request a token access for a fixed time (15 minutes by default), it also can be changed by contract owner. In this way only the owner of token access can do some sensitive function calls until the token access expired and someone else request it.
+
+## Implementation
+```
+pragma solidity ^0.5.0;
+import 'https://github.com/PumpkingWok/CTFGym/OneTimeToken.sol';
+contract CTF is OneTimeToken {
+  function resolveCTF(solution) onlyTokenOwner {
+  }
+}
+```
+Every ctf creator, for instance, could use it in easy way only including ´onlyTokenOwner´ in sensitive functions.
 # Resources
 
 - [Solidity Official Documentation](https://solidity.readthedocs.io/en/v0.4.25/)
 - [CryptoZombies smart contracts courses](https://cryptozombies.io/en/course/)
 - [Program the Blockchain](https://programtheblockchain.com/)
 - [Mythril Classic: Security analysis tool for Ethereum smart contracts](https://mythril.ai/)
+
+# Contribute
+
+You feel free to collaborate in any way, it would be much appreciated.
