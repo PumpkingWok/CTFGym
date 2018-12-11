@@ -30,7 +30,7 @@ contract OneTimeToken {
     /**
      * @return the address of the contract owner.
      */
-    function owner() public view returns(address) {
+    function contractOwner() public view returns(address) {
         return _owner;
     }
 
