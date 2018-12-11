@@ -45,6 +45,8 @@ contract CTF is OneTimeToken {
 }
 ```
 Every ctf creator, for instance, could use it in easy way only including ´onlyTokenOwner´ in sensitive functions.
+
+The user that find the solution to the challenge, can call `resolveCTF(solution)` in safe mode having token access (`requestTokenOwner()` in OTT).
 # Resources
 
 - [Solidity Official Documentation](https://solidity.readthedocs.io/en/v0.4.25/)
