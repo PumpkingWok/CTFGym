@@ -10,7 +10,7 @@ You have to install Metamask plug-in in your browser.
 - [ChainShot](https://www.chainshot.com/)
 - CTF developed by Reddit user u/wadeAlexC (Deployed from Jun-23-2018 to Sep-16-2018)
   - Original contracts
-    - [PART1 - FunctionTypes](https://ropsten.etherscan.io/address/0x727c1c8d4b190d208f3701f106f7301cb1a32f27#code) 
+    - [PART1 - FunctionTypes](https://ropsten.etherscan.io/address/0x727c1c8d4b190d208f3701f106f7301cb1a32f27#code)
     - [PART2 - SafeExecution](https://ropsten.etherscan.io/address/0x023916f968af3fbb21ac10abbe18448c79d609c2#code)
     - [PART3 - HoneyPot](https://ropsten.etherscan.io/address/0xdc65b61be773f8be72ded22ac008ad5add045e3c#code)
     - [PART4 - FinePrint](https://ropsten.etherscan.io/address/0x1b359afb0bd86a6c435d178b1fbf8a6fda3ead7d#code)
@@ -38,7 +38,7 @@ The contract [OneTimeToken.sol](https://github.com/PumpkingWok/CTFGym/blob/maste
 ## Implementation
 ```
 pragma solidity ^0.5.0;
-import 'https://github.com/PumpkingWok/CTFGym/OneTimeToken.sol';
+import 'https://github.com/PumpkingWok/CTFGym/contracts/OneTimeToken.sol';
 contract CTF is OneTimeToken {
   function resolveCTF(solution) onlyTokenOwner {
   }
