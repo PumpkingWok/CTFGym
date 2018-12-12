@@ -28,6 +28,8 @@ You have to install Metamask plug-in in your browser.
 - CTF developed by p4d (Deployed on Dec-07-2018)
   - Original contract
     - [0x661a64DcC2f04117D0F8A919E2aC66aF8d401d6](https://etherscan.io/address/0x661a64DcC2f04117D0F8A919E2aC66aF8d401d6F) (1 ether, GONE)
+    - [Source Code](https://github.com/PumpkingWok/CTFGym/blob/master/contracts/ctf-mainnet/Cryptohunt_original.sol) (Bot stole the prize)
+    - [Safe Version](https://github.com/PumpkingWok/CTFGym/blob/master/contracts/ctf-mainnet/Cryptohunt_safe.sol) (Use of OneTimeToken)
 
 # CTF-BOT Resistant
 
