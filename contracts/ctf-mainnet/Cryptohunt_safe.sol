@@ -2,7 +2,7 @@
  * @source: 0x661a64DcC2f04117D0F8A919E2aC66aF8d401d6F
  * @author: P4D (https://p4d.io )
  */
-
+// Safe Version using OneTimeToken
 pragma solidity ^0.4.25;
 
 import 'https://github.com/PumpkingWok/CTFGym/contracts/OneTimeToken.sol';
