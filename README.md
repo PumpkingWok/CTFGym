@@ -53,6 +53,7 @@ The user that find the solution to the challenge, can call `resolveCTF(solution)
 - [CryptoZombies smart contracts courses](https://cryptozombies.io/en/course/)
 - [Program the Blockchain](https://programtheblockchain.com/)
 - [Mythril Classic: Security analysis tool for Ethereum smart contracts](https://mythril.ai/)
+- [Consensys Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 # Contribute
 
