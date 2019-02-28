@@ -35,7 +35,7 @@ You have to install Metamask plug-in in your browser.
 - CTF developed by ConsenSys Diligence (Deployed on Feb-26-2019) (The first of a series)
   - [Announcement](https://medium.com/consensys-diligence/consensys-diligence-ether-giveaway-1-4985627b7726)
   - Original contract
-    - [0x68Cb858247ef5c4A0D0Cde9d6F68Dce93e49c02A](https://etherscan.io/address/0x68Cb858247ef5c4A0D0Cde9d6F68Dce93e49c02A) (Resolved by @samczsun)
+    - [0x68Cb858247ef5c4A0D0Cde9d6F68Dce93e49c02A](https://etherscan.io/address/0x68Cb858247ef5c4A0D0Cde9d6F68Dce93e49c02A) (GONE, resolved by @samczsun)
     - [Solution writeup](https://samczsun.com/consensys-ctf-writeup/) written by samczsun (200 DAI bounty reward)
     
 
