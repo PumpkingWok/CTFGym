@@ -32,6 +32,12 @@ You have to install Metamask plug-in in your browser.
     - [0x661a64DcC2f04117D0F8A919E2aC66aF8d401d6](https://etherscan.io/address/0x661a64DcC2f04117D0F8A919E2aC66aF8d401d6F) (1 ether, GONE)
     - [Source Code](https://github.com/PumpkingWok/CTFGym/blob/master/contracts/ctf-mainnet/Cryptohunt_original.sol) (Bot stole the prize)
     - [Safe Version](https://github.com/PumpkingWok/CTFGym/blob/master/contracts/ctf-mainnet/Cryptohunt_safe.sol) (Use of OneTimeToken)
+- CTF developed by ConsenSys Diligence (Deployed on Feb-26-2019) (The first of a series)
+  - [Announcement](https://medium.com/consensys-diligence/consensys-diligence-ether-giveaway-1-4985627b7726)
+  - Original contract
+    - [0x68Cb858247ef5c4A0D0Cde9d6F68Dce93e49c02A](https://etherscan.io/address/0x68Cb858247ef5c4A0D0Cde9d6F68Dce93e49c02A) (Resolved by @samczsun)
+    - [Solution writeup](https://samczsun.com/consensys-ctf-writeup/) written by samczsun (200 DAI bounty reward)
+    
 
 # CTF-BOT Resistant
 
