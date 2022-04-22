@@ -7,7 +7,6 @@ You have to install Metamask plug-in in your browser.
 
 - [Capture the Ether](https://capturetheether.com/)
 - [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions/)
-- [DamnVulnerableDeFi](https://www.damnvulnerabledefi.xyz/)
 - [ChainShot](https://www.chainshot.com/)
 - [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com)
 - CTF developed by Reddit user u/wadeAlexC (Deployed from Jun-23-2018 to Sep-16-2018)
@@ -38,6 +37,15 @@ You have to install Metamask plug-in in your browser.
   - Original contract
     - [0x68Cb858247ef5c4A0D0Cde9d6F68Dce93e49c02A](https://etherscan.io/address/0x68Cb858247ef5c4A0D0Cde9d6F68Dce93e49c02A) (GONE, resolved by @samczsun)
     - [Solution writeup](https://samczsun.com/consensys-ctf-writeup/) written by samczsun (200 DAI bounty reward)
+
+## LOCAL CTF
+- DamnVulnerableDeFi
+  - [Website](https://www.damnvulnerabledefi.xyz/)
+  - [Repo](https://github.com/tinchoabbate/damn-vulnerable-defi)
+- Paradigm CTF 2021
+  - [Repo](https://github.com/paradigm-operations/paradigm-ctf-2021)
+- Paradigm CTF 2022 (TBA)
+  - [Website](https://ctf.paradigm.xyz/) 
     
 
 # CTF-BOT Resistant
