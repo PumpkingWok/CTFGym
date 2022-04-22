@@ -7,6 +7,7 @@ You have to install Metamask plug-in in your browser.
 
 - [Capture the Ether](https://capturetheether.com/)
 - [OpenZeppelin Ethernaut](https://ethernaut.zeppelin.solutions/)
+- [DamnVulnerableDeFi](https://www.damnvulnerabledefi.xyz/)
 - [ChainShot](https://www.chainshot.com/)
 - [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com)
 - CTF developed by Reddit user u/wadeAlexC (Deployed from Jun-23-2018 to Sep-16-2018)
