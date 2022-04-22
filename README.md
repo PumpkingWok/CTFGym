@@ -60,11 +60,15 @@ Every ctf creator, for instance, could use it in easy way only including ´onlyT
 The user that find the solution to the challenge, can call `resolveCTF(solution)` in safe mode having token access (`requestTokenOwner()` in OTT).
 # Resources
 
-- [Solidity Official Documentation](https://solidity.readthedocs.io/en/v0.4.25/)
+- [Solidity Official Documentation](https://docs.soliditylang.org/en/latest/)
 - [CryptoZombies smart contracts courses](https://cryptozombies.io/en/course/)
 - [Program the Blockchain](https://programtheblockchain.com/)
 - [Mythril Classic: Security analysis tool for Ethereum smart contracts](https://mythril.ai/)
 - [Consensys Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
+- [Ethereum Explained: The EVM](https://www.youtube.com/watch?v=kCswGz9naZg) (video)
+- [EVM Codes](https://www.evm.codes/) (EVM playground)
+- [EVM Deep Dives](https://noxx.substack.com/) (made by noxx)
+- [EVM Puzzles](https://github.com/fvictorio/evm-puzzles) (made by fvictorio)
 
 # Contribute
 
